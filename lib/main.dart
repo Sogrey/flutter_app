@@ -89,6 +89,14 @@ class _MyHomePageState extends State<MyHomePage> {
           // horizontal).
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
+            new Image(
+              image: AssetImage('image/ic_banner_default.png'),
+              alignment: Alignment.topCenter,
+              repeat: ImageRepeat.noRepeat,
+              matchTextDirection: false,
+              gaplessPlayback: false,
+            ),
+            new Image.asset("image/ic_banner_default.png"/*, width: 20.0, height: 20.0*/),
             new Text(
               'You have pushed the button this many times:',
             ),
