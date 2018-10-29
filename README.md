@@ -4,6 +4,8 @@
 
 第一个flutter项目，用于入门学习
 
+[more demos](https://github.com/Sogrey/flutter-demos)
+
 ## Getting Started
 
 For help getting started with Flutter, view our online
