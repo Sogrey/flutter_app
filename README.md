@@ -1,6 +1,7 @@
 # flutter_app
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/6971f2e4b1d547af9d9c9a392ce1b93d)](https://www.codacy.com/app/Sogrey/flutter_app?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Sogrey/flutter_app&amp;utm_campaign=Badge_Grade)
+[![CodeFactor](https://www.codefactor.io/repository/github/sogrey/flutter_app/badge)](https://www.codefactor.io/repository/github/sogrey/flutter_app)
 
 第一个flutter项目，用于入门学习
 
